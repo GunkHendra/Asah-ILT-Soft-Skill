@@ -33,13 +33,29 @@ SMART Technique:
 Beraktivitas dengan memanfaatkan waktu secara efektif dan efisien.    
 
 Referensi dalam memanajemen waktu:
-- Keeping a To-Do List
+- Keeping a To-Do List -> List kegiatan yang ingin kalian lakukan
 - Prioritizing -> Skala prioritas, 4 Kuadran Manajemen Waktu
 - Scheduling -> Disiplin diri, tools (Google Calendar), tetapkan capaian dalam kurun waktu
-- Resting
-- Delegation
-- Pomodoro Technique
+- Resting -> Pomodoro technique
+- Delegation -> Mendelegasikan tugas ke orang lain, delegasi yang efektif dapat meningkatkan productivity
 
 ## Reality Check
-===
+### Monotasking vs Multitasking
+Monotasking:
+- Fokus dan konsentrasi pada satu kegiatan
+- Mendorong kita untuk memberikan upaya maksimal pada satu kegiatan tersebut
+- Membuat kita menjadi proaktif dalam bekerja
+Multitasking:
+- 'Jumping between' task yang dapat menurunkan produktivitas
+- Waktu yang diperlukan untuk 'jumping between' akan sama dengan jika kita mengerjakana tugas satu persatu
+- Berdasarkan literatur psikologi, terdapat 'mental cost of brain' jika kita multitasking
+  
+Multitasking can lower productivity by 40%.    
 
+### Beranilah berkata 'tidak'
+Saying 'no' gives you the ability to set your own boundaries!
+
+## Ending Quotes
+"Excuses make today easy, but they make tomorrow harder. Discipline makes today hard, but it makes tomorrow easier."
+
+---
