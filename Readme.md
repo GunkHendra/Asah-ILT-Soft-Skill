@@ -299,10 +299,76 @@ Kapasitas individu untuk mengubah tindakan, arah, atau cara untuk menghadapi dan
 
 #### Sebagai pendatang baru, bagaimana cara beradaptasi?
 
-- Tunjukkann bahwa Anda menyenangkan
+- Tunjukkan bahwa Anda menyenangkan
 - Jangan sombong dan buka diri
 - Tunjukkan kualitas diri Anda
 - Jauhkan diri dari hal negatif
 - Buat diri senyaman mungkin
 
 ---
+
+# Communication and Networking: The Art of Persuasion and Creating Connection by Intan Santika Eris Magfiroh
+## Komunikasi
+### Komunikasi yang Efektif
+Komunikasi adalah proses mengirimkan, menerima, dan memahami pesan. Komunikasi yang efektif akan menghasilkan tingkat persepsi, pemahaman, dan perilaku yang sama antara pengirim dan penerima pesan.  
+  
+Jadi pada komunikasi ada Sender (encodes) dan Receiver (decodes). Sender mengirimkan Medium, Receiver mengirimkan Feedback/Response, dan di antara mereka ada barrier-barrier.
+  
+### Tipe-tipe Komunikasi
+- Interpersonal
+- One to Group
+- Intrapersonal
+- Small Group
+- Public/Mass
+  
+### Tiga Bentuk Komunikasi
+- Explicit
+- Implicit
+- Active Listening
+
+### Prinsip 7C: How to Deliver an Effective Communication
+- Correct: pesan sesuai adanya, tidak berlebihan
+- Clear: pesan memiliki makna dan tujuan yang jelas
+- Courteous: komunikasi dilakukan dengan sopan, ramah, dan terbuka
+- Complete: pesan disampaikan secara lengkap dan komprehensif
+- Coherent: pesan yang disampaikan masuk akal sesuai nalar/logika
+- Concise: pesan disampaikan secara ringkas dan fokus pada poin utama
+- Cocrete: pesan sesuai dengan realita dan didukung dengan fakta
+
+### Penyebab Utama Ineffective Communication
+- Communication style
+- Physical
+- Psychological
+- Language
+  
+### Communication Channel
+- Email
+- Chat Platform
+- Conference Call
+- Face-to-Face Meeting
+  
+## Networking
+### What is Networking
+Proses interaksi antar individu untuk saling bertukar informasi dan mengembangkan hubungan personal dan profesional.
+  
+### Mengapa Networking Penting
+- Menambah relasi dan koneksi
+- Melatih komunikasi dan public speaking
+- Menambah pengetahuan dan informasi yang terkini
+- Sarana untuk membangun reputasi diri
+- Belajar dari pengalaman orang lain
+  
+### Tahapan Networking
+- Tentukan tujuan
+- Tentukan dengan siapa melakukan networking
+- Tentukan dimana/darimana melakukan networking (Online Networking, Offline Networking, dan General Networking)
+- Tentukan value apa yang bisa diberikan kepada orang lain
+- Follow up (tegur sapa jika bertemu, komen di sosial media, dan sebagainya)
+  
+### A Simple Way to Introduce Yourself
+- Present (Saat ini menjadi siapa)
+- Past (Dulunya apa saja yang dialami, mungkin pendidikan dan sebagainya)
+- Future (Rencana kedepannya)
+  
+
+
