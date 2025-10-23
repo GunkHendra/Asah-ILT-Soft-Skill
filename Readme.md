@@ -308,25 +308,31 @@ Kapasitas individu untuk mengubah tindakan, arah, atau cara untuk menghadapi dan
 ---
 
 # Communication and Networking: The Art of Persuasion and Creating Connection by Intan Santika Eris Magfiroh
+
 ## Komunikasi
+
 ### Komunikasi yang Efektif
-Komunikasi adalah proses mengirimkan, menerima, dan memahami pesan. Komunikasi yang efektif akan menghasilkan tingkat persepsi, pemahaman, dan perilaku yang sama antara pengirim dan penerima pesan.  
-  
+
+Komunikasi adalah proses mengirimkan, menerima, dan memahami pesan. Komunikasi yang efektif akan menghasilkan tingkat persepsi, pemahaman, dan perilaku yang sama antara pengirim dan penerima pesan.
+
 Jadi pada komunikasi ada Sender (encodes) dan Receiver (decodes). Sender mengirimkan Medium, Receiver mengirimkan Feedback/Response, dan di antara mereka ada barrier-barrier.
-  
+
 ### Tipe-tipe Komunikasi
+
 - Interpersonal
 - One to Group
 - Intrapersonal
 - Small Group
 - Public/Mass
-  
+
 ### Tiga Bentuk Komunikasi
+
 - Explicit
 - Implicit
 - Active Listening
 
 ### Prinsip 7C: How to Deliver an Effective Communication
+
 - Correct: pesan sesuai adanya, tidak berlebihan
 - Clear: pesan memiliki makna dan tujuan yang jelas
 - Courteous: komunikasi dilakukan dengan sopan, ramah, dan terbuka
@@ -336,39 +342,169 @@ Jadi pada komunikasi ada Sender (encodes) dan Receiver (decodes). Sender mengiri
 - Cocrete: pesan sesuai dengan realita dan didukung dengan fakta
 
 ### Penyebab Utama Ineffective Communication
+
 - Communication style
 - Physical
 - Psychological
 - Language
-  
+
 ### Communication Channel
+
 - Email
 - Chat Platform
 - Conference Call
 - Face-to-Face Meeting
-  
+
 ## Networking
+
 ### What is Networking
+
 Proses interaksi antar individu untuk saling bertukar informasi dan mengembangkan hubungan personal dan profesional.
-  
+
 ### Mengapa Networking Penting
+
 - Menambah relasi dan koneksi
 - Melatih komunikasi dan public speaking
 - Menambah pengetahuan dan informasi yang terkini
 - Sarana untuk membangun reputasi diri
 - Belajar dari pengalaman orang lain
-  
+
 ### Tahapan Networking
+
 - Tentukan tujuan
 - Tentukan dengan siapa melakukan networking
 - Tentukan dimana/darimana melakukan networking (Online Networking, Offline Networking, dan General Networking)
 - Tentukan value apa yang bisa diberikan kepada orang lain
 - Follow up (tegur sapa jika bertemu, komen di sosial media, dan sebagainya)
-  
+
 ### A Simple Way to Introduce Yourself
+
 - Present (Saat ini menjadi siapa)
 - Past (Dulunya apa saja yang dialami, mungkin pendidikan dan sebagainya)
 - Future (Rencana kedepannya)
-  
 
+---
 
+# Business Presentation: Presenting with Confidence by Audrey Diwantri Alodia
+
+## Business Presentation Steps
+
+### Struktur Penyampaian Business Presentation
+
+#### Preparation
+
+Sebelum melakukan presentasi, pastikan Anda telah mengetahui hal-hal berikut:
+
+- Siapa audience/peserta yang akan hadir?
+- Apa yang mereka perlukan?
+- Apa yang telah mereka ketahui?
+- Apa kesamaan yang dimiliki?
+
+####
+
+Agar presentasi kita optimal dan menarik, kita juga perlu memperhatikan dan mempersiapkan hal-hal berikut ini:
+
+- Persiapkan outfit
+- Persiapkan ice breaking atau jokes
+- Persiapkan jawaban atas pertanyaan yang mungkin akan muncul
+- Practice, practice, practice
+
+#### Introduction
+
+Pada tahap introduction, pastikan Anda menyampaikan hal-hal berikut:
+
+- Jelaskan siapa Anda
+- Jelaskan alasan kehadiran Anda
+- Sampaikan apa yang akan Anda bicarakan
+- Jelaskan bagaimana Anda akan menyampaikannya
+
+#### Main Points
+
+Pada tahap main points, pastikan Anda menyampaikan hal-hal berikut:
+
+- Menjelaskan inti presentasi
+- Menyampaikan key points presentasi
+- Setiap key points dijelaskan dari makro ke mikro
+- Upayakan memberikan contoh yang familiar untuk audiens
+- Jika pindah ke key points selanjutnya, pastikan berkesinambungan antar point-nya
+- Beri jeda/break jika diperlukan
+
+####
+
+Untuk memudahkan audiens memahami penjelasa, berikut hal-hal yang bisa dilakukan:
+
+- Gunakan visual yang baik dan menarik
+- Sampaikan data/trend/quote
+- Berikan highlight/emphasis untuk hal penting
+
+#### Conclusion
+
+Pastikan Anda menyampaikan hal-hal berikut:
+
+- Sampaikan/ulangi into pesan Anda sebagai kesimpulan
+- Sampaikan harapan yang ingin dicapai setelah acara berakhir
+- Salam penutup
+
+## Business Presentation Hints
+
+### How to Answer a Difficult Question
+
+- Konfirmasi pertanyaan yang diberikan
+- Berikan informasi atau jawaban yang Anda ketahui
+- Akui jika Anda belum mengetahui jawaban lengkapnya
+- Informasikan bahwa Anda akan memberikan jawaban lengkap dan komprehensif saat Anda sudah mencari tahu
+- Tanyakan kepada yang bertanya cara menghubunginya, jika Anda belum mengetahuinya
+
+### Active Listeing Implementation
+
+- Kognitif
+- Emosional
+- Tingkah laku
+
+####
+
+Cara menjadi Active Listener:
+
+- Pay attention
+- Show you are listening
+- Provide feedback
+- Defer judgement
+- Respond appropiately
+
+### Tips Visualisasi Materi Presentasi
+
+- Gunakan slides dengan warna yang sesuai brand/produk
+- Hindari terlalu banyak warna
+- Gunakan style dan ukuran font yang konsisten
+- Hindari penggunaan text yang wordy/terlalu panjang
+- Beri highlight pada kata kunci penting
+- Hindari tumpah tindih informasi dalam satu slide
+- Tampilkan data visual yang mudah dipahami
+- Gunakan gambar atau video berkualitas baik
+- Hindari terlalu banyak efek khusus
+- Batasi jumlah slide sesuai durasi presentasi
+
+## Online vs Offline Presentation
+
+### Online Presentation Tips
+
+- Pastikan seluruh perangkat berfungsi dengan baik
+- Siapkan perangkat cadangan
+- Pastikan sudut kamera sesuai
+- Gunakan pencahayaan yang cukup
+- Perhatikan penampilan dan posisi di kamera
+- Pilih tempat atau ruangan yang tepat
+- Bersiaplah dengan sesuatu yang tak terduga
+
+### Offline Presentation Tips
+
+- Datang lebih awal
+- Gunakan pakaian yang sesuai dan nyaman
+- Jangan lupa tersenyum
+- Latih gerakan tubuh dan tangan
+
+## Ending Quotes
+
+"The success of your presentation will be judged not by the knowledge you send but by what the listener receives" - Lily Walters
+
+---
