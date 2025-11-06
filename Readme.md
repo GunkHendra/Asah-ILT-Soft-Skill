@@ -508,3 +508,75 @@ Cara menjadi Active Listener:
 "The success of your presentation will be judged not by the knowledge you send but by what the listener receives" - Lily Walters
 
 ---
+
+# ILT-SS6-A-AM: Personal Branding: Be The Best Version of Yourself by Fanni Wirliani Putri
+
+## Personal Branding Overview
+
+### Recruitment and Selection Process
+
+- Candidates Apply
+- Screening Candidates
+- Pre-Assesment
+- Interview
+- Offering
+
+### Apa itu Personal Branding
+
+Personal Branding adalah pembentukan persepsi publik terhadap aspek diri seseorang.
+
+### Pentingnya dan Manfaat Personal Branding
+
+Pentingnya Personal Branding:
+
+- Membangun rasa percaya diri
+- Meningkatkan kepercayaan orang lain
+- Memperkuat kredibilitas
+- Menjadi pembeda (autentik)  
+  Manfaat Personal Branding:
+- Meningkatkan reputasi
+- Menambah jejaring
+- Mendatangkan kesempatan/peluang
+
+## Attractive Resume
+
+### Apa Perbedaan Resume dan CV?
+
+Resume adalah ringkasan singkat (biasanya satu halaman) yang disesuaikan untuk posisi tertentu, sedangkan CV (Curriculum Vitae) adalah dokumen yang lebih rinci dan komprehensif yang mencakup seluruh riwayat pendidikan, pengalaman kerja, publikasi, dan penelitian seseorang (bisa lebih dari satu halaman).
+
+### Attractive Resume: Ringkasan Diri
+
+- Ringkas (cukup 200 kata)
+- Gunakan kata ganti orang pertama (saya)
+- Beri highlight untuk spesialisasi yang dimiliki
+- Pastikan menggunakan perspektif positif
+- Deskripsikan passion dan hal yang Anda sukai
+
+### Tips Resuma
+
+- Satu halaman
+- Ringkas dan jelas
+- Sesuaikan resume dengan perusahaan dan posisi yang dilamar
+- Gunakan template sederhana
+- Warna kontras antara font dan background
+- Pastikan tidak ada typo
+- Format pdf
+
+## Digital Presence
+
+### Mengapa Kita Perlu Digital Presence?
+
+- Profil Anda mudah dicari
+- Membuka lebih banyak peluang
+- Anda dapat mencari informasi tentang perusahaan, pewawancara, hiring managers, dsb
+- Menambah jejaring
+
+### Linkedin Tips
+
+- Headline yang informatif
+- Gunakan foto profile yang kasual namun profesional
+- Summary yang menarik
+- Lengkapi portofolio (pendidikan, pekerjaan, skill)
+- Rekomendasi
+- Memperluas koneksi
+- Posting konten yang menarik dan bermanfaat
