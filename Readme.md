@@ -586,11 +586,98 @@ Resume adalah ringkasan singkat (biasanya satu halaman) yang disesuaikan untuk p
 # ILT-SS7-A-AM: Interview Preparation: How to Deal with Recruiter? by Yuanita Paramitasari
 
 ## Preparation before Interview
+### Recruitment and Selection Process
+- Candidates Apply
+- Screening Candidates
+- Pre-Assessment
+- Interview
+- Offering
 
-###
+### What Recruiter Said about Interview?
+"Melalui wawancara, recruiter dapat menilai langsung kualifikasi dan kemampuan dari para kandidat serta memverfikasi informasi dari kandidat (cv/resume). Selain itu, melalui interview, recruiter juga dapat mengetahui sejauh mana pengetahuan kandidat tentang perusahaan, mengetahui harapan dari kandidat dan mengidentifikasi kandidat mana yang selaras dengan tujuan dan budaya perusahaan."
+
+### Preparation before Interview
+#### Mencari tahu informasi tentang perusahaan
+- Cari tahu jenis usaha yang dilakukan
+- Cari tahu produk/service yang ditawarkan
+- Cari tahu lokasi perusahaan
+- Cari tahu visi, misi, dan tujuan perusahaan secara umum
+
+#### Mencari tahu informasi peran dan pekerjaan untuk posisi yang dilamar
+- Deskripsi pekerjaan
+- Tanggung jawab
+- Kualifikasi yang dibutuhkan
+
+#### Latih diri dalam menjawab pertanyaan
+- Luangkan waktu untuk berlatih menjawab pertanyaan yang mungkin ditanyakan pewawancara
+- Persiapkan 2-3 pertanyaan untuk diajukan kepada interviewer
+- Practive, practice, practice adalah salah satu kunci keberhasilan dalam menghadapi interview kerja
+
+#### Jika offline, siapkan dokumen dan cari tahu rute perjalanan
+- Cari tahu rute perjalanan yang paling efisien dan alternatifnya
+- Cari tahu jarak tempuh yang diperlukan
+- Bawa resume dan dokumen pendukung dalam bentuk hardcopy
+
+#### Jika online, persiapkan perangkat teknis yang akan digunakan
+- Persiapkan perangkat teknis yang akan digunakan seperti device, koneksi internet, perangkat pendukung lainnya yang diperlukan (lighting, webcam, mic, dan sebagainya)
 
 ## During Interview
+- Bersikap sopan dan positif
+- Gunakan bahasa dan intonasi yang tepat
+- Dengarkan pertanyaan hingga selesai sebelum menjawabnya
+- Jawab to the point
+- Bersikap asertif (jujur, tegas, berempati)
+- Minta inerviewer mengulangi pertanyaannya jika Anda belum mengerti dengan pertanyaan yang ditanyakan
+- Bertanya kepada interviewer
+- Gunakan metode STAR untuk menjawab "behavioral question"
+
+### The Interview Questions
+#### Please tell me about yourself?
+- Tell them how you got to where you are today (past)
+- Talk about your current job and responsibilities (present)
+- Explain what your future goals are (future)
+
+#### Please describe your strength and weakness?
+
+#### What do you know about this company?
+#### What programming languages can you work with?
+#### What's your favorite programming language?
+#### What's the most recent programming language that you learned?
+
+### Interview Tips
+- Tinggalkan kesan pertama yang baik
+- Pahami bahasa tubuh (non-verbal communication)
+- Jaga agar jawaban tetap singkat dan to the point
+- Di akhir wawancara, ucapkan terima kasih kepada pewawancara atas waktu dan kesempatannya. Beri tahu bahwa Anda menunggu kabar selanjutnya.
+
+### Five Interview Mistakes
+- Tidak melakukan persiapan
+- Berpakaian kurang sesuai
+- Berbicara terlalu banyak atau terlalu sedikit
+- Mengkritik mantan atasan atau rekan kerja
+- Gagal dalam bertanya
 
 ## S.T.A.R Technique
+- Situation
+- Task
+- Action
+- Result
 
 ## After Interview
+### Thank You Note After Interview
+- Yakinkan recruiter bahwa Anda adalah kandidat yang tepat untuk posisi tersebut
+- Ungkapkan ketertarikan Anda secara unik dan spesifik
+- Sampaikan poin-poin yang belum disebutkan saat interview
+
+### Jika Anda diterima bekerja di perusahaan, maka
+- Segera berikan respon terhadap email/informasi yang diberikan
+- Jika Anda menerima tawaran tersebut, cari tahu kapan Anda bisa mulai bekerja dan apa hal yang harus disiapkan
+- Jika Anda tidak menerima tawaran tersebut, tolak dengan sopan dan baik. Mungkin Anda akan bekerja di perusahaan tersebut di masa yang akan datang.
+
+### Jika Anda ditolak bekerja di perusahaan, maka
+- Tetap berpikir positif, anggap saja kesempatan tersebut merupakan waktu untuk belajar dan berlatih
+- Anda bisa meminta umpan balik atas hasil wawancara Anda
+- Pikirkan hal apa yang harus Anda perbaiki di portofolio Anda
+- Teruslah berlatih dan berdoa
+
+---
