@@ -580,3 +580,5 @@ Resume adalah ringkasan singkat (biasanya satu halaman) yang disesuaikan untuk p
 - Rekomendasi
 - Memperluas koneksi
 - Posting konten yang menarik dan bermanfaat
+
+---
