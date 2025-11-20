@@ -582,3 +582,15 @@ Resume adalah ringkasan singkat (biasanya satu halaman) yang disesuaikan untuk p
 - Posting konten yang menarik dan bermanfaat
 
 ---
+
+# ILT-SS7-A-AM: Interview Preparation: How to Deal with Recruiter? by Yuanita Paramitasari
+
+## Preparation before Interview
+
+###
+
+## During Interview
+
+## S.T.A.R Technique
+
+## After Interview
